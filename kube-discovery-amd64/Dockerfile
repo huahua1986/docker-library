@@ -1,2 +1,2 @@
-FROM gcr.io/google-containers/kube-discovery-amd64:v1.0
+FROM gcr.io/google-containers/kube-discovery-amd64
 MAINTAINER huahua1986
