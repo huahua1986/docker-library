@@ -1,2 +1,2 @@
 # docker-library
-docker files
+docker files for kubernetes
