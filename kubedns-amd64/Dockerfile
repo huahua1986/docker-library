@@ -1,1 +1,1 @@
-FROM gcr.io/google-containers/kubedns-amd64:1.8
+FROM gcr.io/google-containers/kubedns-amd64:1.9
