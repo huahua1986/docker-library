@@ -1,0 +1,1 @@
+FROM gcloud docker -- pull gcr.io/google-containers/kube-apiserver-amd64:v1.9.6
